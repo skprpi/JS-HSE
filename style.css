@@ -1,0 +1,23 @@
+#gameField {
+    margin: auto;
+    border-spacing: 10px;
+    border-collapse: separate;
+}
+
+.cell-empty {
+    background: gray;
+    width: 100px;
+    height: 100px;
+}
+
+.cell-player1 {
+    background: blue;
+    width: 100px;
+    height: 100px;
+}
+
+.cell-player2 {
+    background: green;
+    width: 100px;
+    height: 100px;
+}
